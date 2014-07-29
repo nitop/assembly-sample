@@ -5,6 +5,6 @@ package sample1
  */
 object Main {
   def main(args: Array[String]) {
-    println(123)
+    println("Hello World")
   }
 }
